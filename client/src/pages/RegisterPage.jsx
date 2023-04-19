@@ -15,7 +15,6 @@ const RegisterPage = () => {
             password,
         });
     }
-
     return (
         <div className='mt-4 grow flex items-center justify-around'>
             <div className='mb-64'>
